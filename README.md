@@ -23,8 +23,8 @@ The project structure is shown as follow：
 │    ├─_init_.py  
 │    ├─supervised.py  
 └─utils  
-    ├─callbacks  
-    ├─data  
-    ├─_init_.py  
-    ├─losses.py  
-    ├─metric.py  
+│    ├─callbacks  
+│    ├─data  
+│    ├─_init_.py  
+│    ├─losses.py  
+│    ├─metric.py  
